@@ -1,0 +1,18 @@
+<div>
+    <h3 (click)="openDetails()"> {{this.article.title}} </h3>
+    <p 
+        class="text-justify"
+        (click)="openDetails()"
+    > 
+        {{this.article.content}} 
+    </p>
+    <div>
+        <span (click)="showAuthorName()"> 
+            {{ this.article.author }} 
+        </span>
+        <button (click)="delete()">
+            Delete
+        </button>
+    </div>
+    
+</div>
