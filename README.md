@@ -1,3 +1,7 @@
+# Thanks to
+
+All those who have made presentations ! :P
+
 # SimpleApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
