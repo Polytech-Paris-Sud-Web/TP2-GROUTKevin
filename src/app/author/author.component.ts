@@ -14,7 +14,7 @@ export class AuthorComponent implements OnInit {
   author : Author = {
     name: '',
     id: 0,
-    biography: '',
+    bio: '',
   };
 
   constructor(private route: ActivatedRoute, private authorService : AuthorService) { }
