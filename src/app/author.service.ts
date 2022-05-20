@@ -12,6 +12,6 @@ export class AuthorService {
   constructor(private http : HttpClient) { }
 
   public getAuthor(name: string): Observable<Author[]> {
-    return this.http.get<Author[]>(`http://localhost:3000/authors?name=${name}`);
+    return this.http.get<Author[]>(`https://my-json-server.typicode.com/Polytech-Paris-Sud-Web/TP2-GROUTKevin/authors?name=${name}`);
   }
 }
