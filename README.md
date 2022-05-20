@@ -1,7 +1,7 @@
 # Thanks to
 
 All those who have made presentations ! :P
-Helped with Precieuse
+Helped with Precieuse about root path.
 
 # SimpleApp
 
