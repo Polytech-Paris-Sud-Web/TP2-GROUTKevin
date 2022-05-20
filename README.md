@@ -1,6 +1,7 @@
 # Thanks to
 
 All those who have made presentations ! :P
+Helped with Precieuse
 
 # SimpleApp
 
